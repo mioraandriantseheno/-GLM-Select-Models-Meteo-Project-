@@ -1,5 +1,6 @@
-# -GLM-Select-Models-Meteo-Project-
-Le répertoire -GLM-Select-Models-Meteo-Project- contient les fichiers suivants : 
+# -Generalized.Linear.Model-Model.Selection--MeteoBale-Project-
+
+Le répertoire -Generalized.Linear.Model-Model.Selection--MeteoBale-Project- contient les fichiers suivants : 
 		
     - Le fichier .Rmd du code R 
 		
