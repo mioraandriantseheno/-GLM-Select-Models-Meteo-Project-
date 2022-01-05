@@ -1,4 +1,4 @@
-# -Generalized.Linear.Model-Model.Selection--MeteoBale-Project-
+# -Generalized.Linear.Model-Model.Selection--MeteoBale-Project- (en cours de mise à jour)
 
 Le répertoire -Generalized.Linear.Model-Model.Selection--MeteoBale-Project- contient les fichiers suivants : 
 		
